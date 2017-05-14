@@ -1,1 +1,1 @@
-# burgers_sequilize
+# burgers
